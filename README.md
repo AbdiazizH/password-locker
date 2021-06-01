@@ -15,6 +15,6 @@ Redirects the user on some instructions on how to guide through the application 
 # Technologies used:
  Python3.8
 # Author
-<!-- Abdiaziz Hussein -->
+Abdiaziz Hussein
 # Licence
 MIT
