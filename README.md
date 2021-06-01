@@ -14,7 +14,7 @@ Input data to answer the statement asked    Press enter key Some short commands 
 Redirects the user on some instructions on how to guide through the application Type any of the short commands of your choice   Follow them through to create an account for instanc.
 # Technologies used:
  Python3.8
-# Author
+<!-- # Author -->
 Abdiaziz Hussein
 # Licence
 MIT
